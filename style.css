@@ -564,21 +564,21 @@ button:focus {
 /* EVENT SCHEDULE */
 /*--------------------*/
 
-#mu-schedule {
+#mu-schedule, #mu-tickets {
 	background-color: #f8f8f8;
 	display: inline;
 	float: left;
 	width: 100%;
 }
 
-.mu-schedule-area {
+.mu-schedule-area, #mu-tickets {
 	display: inline;
 	float: left;
 	padding: 100px 0;
 	width: 100%;
 }
 
-.mu-schedule-content-area  {
+.mu-schedule-content-area, #mu-tickets-content-area {
 	display: inline;
 	float: left;
 	margin-top: 50px;
